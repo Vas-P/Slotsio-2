@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Arial;
+    src: url("../fonts/ArialRegular.ttf");
+    font-weight: 400;
+}
+@font-face {
+    font-family: Arial;
+    src: url("../fonts/ArialBold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: Arial;
+    src: url("../fonts/ArialItalic.ttf");
+    font-weight: 500;
+}
+@font-face {
+    font-family: Arial;
+    src: url("../fonts/ArialBoldItalic.ttf");
+    font-weight: 600;
+}
